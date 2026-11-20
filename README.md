@@ -1,4 +1,6 @@
-<br>
+<p align="center">
+  <img src="assets/wave-top.svg" alt="" width="100%">
+</p>
 
 <p align="center">
   <i>I build machine learning and software for people who are usually left out of technology, in health, energy access and education, and I share what I learn openly so others can build on it.</i>
@@ -65,4 +67,6 @@
   <img src="assets/badges/tool-nibabel.svg" alt="nibabel" height="24">
 </p>
 
-<br>
+<p align="center">
+  <img src="assets/wave-bottom.svg" alt="" width="100%">
+</p>
