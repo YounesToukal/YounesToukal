@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="assets/frame-top.svg" alt="" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education, and I share what I learn openly so others can build on it." width="100%">
+</picture>
 
-<p align="center">
-  <i>I build machine learning and software for people who are usually left out of technology, in health, energy access and education, and I share what I learn openly so others can build on it.</i>
-</p>
 
 <p align="center">
   <a href="mailto:younesstoukal2@gmail.com"><img src="assets/buttons/email.svg" alt="Email" height="34"></a>&nbsp;
