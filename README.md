@@ -1,14 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/lead-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/lead-light.svg">
-  <img src="assets/lead-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education, and I share what I learn openly so others can build on it." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/opening-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/opening-light.svg">
+  <img src="assets/opening-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education, and I share what I learn openly so others can build on it." width="100%">
 </picture>
 
 
 <p align="center">
-  <a href="mailto:younesstoukal2@gmail.com"><img src="assets/contact/email.svg" alt="Email: younesstoukal2@gmail.com" height="23"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/younes-toukal/"><img src="assets/contact/linkedin.svg" alt="LinkedIn: younes-toukal" height="23"></a>&nbsp;
-  <a href="https://younestoukal.github.io"><img src="assets/contact/website.svg" alt="Website: younestoukal.github.io" height="23"></a>
+  <a href="mailto:younesstoukal2@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/contact-dark/email.svg"><source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/contact-light/email.svg"><img src="assets/contact-light/email.svg" alt="Email: younesstoukal2@gmail.com" height="23"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/younes-toukal/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/contact-dark/linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/contact-light/linkedin.svg"><img src="assets/contact-light/linkedin.svg" alt="LinkedIn: younes-toukal" height="23"></picture></a>&nbsp;
+  <a href="https://younestoukal.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/contact-dark/website.svg"><source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/contact-light/website.svg"><img src="assets/contact-light/website.svg" alt="Website: younestoukal.github.io" height="23"></picture></a>
 </p>
 
 <p align="center">
