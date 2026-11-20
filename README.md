@@ -37,20 +37,20 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="33%">
       <b><a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation">Hepatic vessel segmentation</a></b><br>
       <i>Health</i><br>
-      <sub>Segments the liver's blood vessels in computed tomography scans for liver surgery planning, reading neighbouring slices together for three-dimensional context.</sub>
+      Segments the liver's blood vessels in computed tomography scans to support liver surgery planning.
     </td>
-    <td valign="top">
+    <td valign="top" width="33%">
       <b><a href="https://github.com/YounesToukal/SABIL">SABIL</a></b><br>
       <i>Energy access</i><br>
-      <sub>A home solar kit for families who lose the electricity grid for months. In a ten-year simulation, hours without essential power fall from 110 to 13.</sub>
+      A home solar kit that protects its battery, for families who lose the electricity grid for months.
     </td>
-    <td valign="top">
+    <td valign="top" width="33%">
       <b><a href="https://github.com/YounesToukal/QuranicSchool">QuranDec</a></b><br>
       <i>Community education</i><br>
-      <sub>A bilingual Arabic and French web application that helps a Quranic school follow each student's progress, even offline.</sub>
+      A bilingual Arabic and French web application for following each student's progress in a Quranic school.
     </td>
   </tr>
 </table>
@@ -59,32 +59,35 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="25%"><b>2026</b><br>Deep Learning Indaba<br><sub>Participant and poster reviewer</sub><br><sub><i>Lagos, Nigeria</i></sub></td>
-    <td align="center" valign="top" width="25%"><b>2026</b><br>African Computer Vision Summer School<br><sub>Participant in a team computer vision project</sub><br><sub><i>Accra, Ghana</i></sub></td>
-    <td align="center" valign="top" width="25%"><b>2025</b><br>AI Forge program<br><sub>Team member on a space debris detection prototype</sub><br><sub><i>Algiers, Algeria</i></sub></td>
-    <td align="center" valign="top" width="25%"><b>2022 to 2025</b><br>Micro Club<br><sub>Computer vision tutor to about 100 members</sub><br><sub><i>Algiers, Algeria</i></sub></td>
+    <td align="center" valign="top" width="50%"><b>2026</b><br>Deep Learning Indaba<br>Participant and poster reviewer<br><i>Lagos, Nigeria</i></td>
+    <td align="center" valign="top" width="50%"><b>2026</b><br>African Computer Vision Summer School<br>Participant in a team computer vision project<br><i>Accra, Ghana</i></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%"><b>2025</b><br>AI Forge program<br>Team project on space debris detection<br><i>Algiers, Algeria</i></td>
+    <td align="center" valign="top" width="50%"><b>2022 to 2025</b><br>Micro Club<br>Computer vision tutor to about 100 members<br><i>Algiers, Algeria</i></td>
   </tr>
 </table>
 
 <h3 align="center">Tools I work with</h3>
 
-<p align="center">
-  <img src="assets/stack/python.svg" alt="Python" height="22">&nbsp;
-  <img src="assets/stack/c.svg" alt="C" height="22">&nbsp;
-  <img src="assets/stack/cpp.svg" alt="C++" height="22">&nbsp;
-  <img src="assets/stack/sql.svg" alt="SQL" height="22">
-<br>
-  <img src="assets/stack/pytorch.svg" alt="PyTorch" height="22">&nbsp;
-  <img src="assets/stack/tensorflow.svg" alt="TensorFlow" height="22">&nbsp;
-  <img src="assets/stack/opencv.svg" alt="OpenCV" height="22">&nbsp;
-  <img src="assets/stack/catboost.svg" alt="CatBoost" height="22">&nbsp;
-  <img src="assets/stack/tabpfn.svg" alt="TabPFN" height="22">
-<br>
-  <img src="assets/stack/numpy.svg" alt="NumPy" height="22">&nbsp;
-  <img src="assets/stack/pandas.svg" alt="pandas" height="22">&nbsp;
-  <img src="assets/stack/matplotlib.svg" alt="Matplotlib" height="22">&nbsp;
-  <img src="assets/stack/nibabel.svg" alt="nibabel" height="22">
-</p>
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="assets/stack/python.svg" alt="Python" height="22">&nbsp; <img src="assets/stack/c.svg" alt="C" height="22">&nbsp; <img src="assets/stack/cpp.svg" alt="C++" height="22">&nbsp; <img src="assets/stack/sql.svg" alt="SQL" height="22"></td>
+  </tr>
+  <tr>
+    <td><b>Machine learning</b></td>
+    <td><img src="assets/stack/pytorch.svg" alt="PyTorch" height="22">&nbsp; <img src="assets/stack/tensorflow.svg" alt="TensorFlow" height="22">&nbsp; <img src="assets/stack/catboost.svg" alt="CatBoost" height="22">&nbsp; <img src="assets/stack/tabpfn.svg" alt="TabPFN" height="22"></td>
+  </tr>
+  <tr>
+    <td><b>Vision and imaging</b></td>
+    <td><img src="assets/stack/opencv.svg" alt="OpenCV" height="22">&nbsp; <img src="assets/stack/nibabel.svg" alt="nibabel" height="22"></td>
+  </tr>
+  <tr>
+    <td><b>Data and plotting</b></td>
+    <td><img src="assets/stack/numpy.svg" alt="NumPy" height="22">&nbsp; <img src="assets/stack/pandas.svg" alt="pandas" height="22">&nbsp; <img src="assets/stack/matplotlib.svg" alt="Matplotlib" height="22"></td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/close-dark.svg">
