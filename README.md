@@ -20,17 +20,37 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation"><img src="assets/cards3/liver.webp" alt="Hepatic vessel segmentation" width="100%"></a>
-      <br><sub>Segments the liver's blood vessels in computed tomography scans for liver surgery planning, reading neighbouring slices together for three-dimensional context.</sub>
+    <td align="center" width="33%">
+      <a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation"><img src="assets/projects/liver.gif" alt="Three-dimensional render of a liver with its portal and hepatic veins" height="170"></a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/YounesToukal/SABIL"><img src="assets/cards3/sabil.webp" alt="SABIL" width="100%"></a>
-      <br><sub>A home solar kit for families who lose the electricity grid for months. In a ten-year simulation, hours without essential power fall from 110 to 13.</sub>
+    <td align="center" width="33%">
+      <a href="https://github.com/YounesToukal/SABIL">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/projects/sabil-reversed.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/projects/sabil-colour.svg">
+          <img src="assets/projects/sabil-colour.svg" alt="SABIL logo" width="210">
+        </picture>
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/cards3/qurandec.webp" alt="QuranDec" width="100%"></a>
-      <br><sub>A bilingual Arabic and French web application that helps a Quranic school follow each student's progress, even offline.</sub>
+    <td align="center" width="33%">
+      <a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/projects/qurandec.svg" alt="QuranDec logo" height="170"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation">Hepatic vessel segmentation</a></b><br>
+      <i>Health</i><br>
+      <sub>Segments the liver's blood vessels in computed tomography scans for liver surgery planning, reading neighbouring slices together for three-dimensional context.</sub>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/YounesToukal/SABIL">SABIL</a></b><br>
+      <i>Energy access</i><br>
+      <sub>A home solar kit for families who lose the electricity grid for months. In a ten-year simulation, hours without essential power fall from 110 to 13.</sub>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/YounesToukal/QuranicSchool">QuranDec</a></b><br>
+      <i>Community education</i><br>
+      <sub>A bilingual Arabic and French web application that helps a Quranic school follow each student's progress, even offline.</sub>
     </td>
   </tr>
 </table>
