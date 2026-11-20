@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/sky.webp" alt="Clouds drifting at sunset" width="100%">
-</p>
+<br>
 
 <p align="center">
   <i>I build machine learning and software for people who are usually left out of technology, in health, energy access and education, and I share what I learn openly so others can build on it.</i>
@@ -67,6 +65,4 @@
   <img src="assets/badges/tool-nibabel.svg" alt="nibabel" height="24">
 </p>
 
-<p align="center">
-  <img src="assets/horizon.webp" alt="" width="100%">
-</p>
+<br>
