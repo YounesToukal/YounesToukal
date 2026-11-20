@@ -59,10 +59,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><b>2026</b><br>Deep Learning Indaba<br><sub>Lagos, Nigeria</sub></td>
-    <td align="center" width="25%"><b>2026</b><br>African Computer Vision Summer School<br><sub>Accra, Ghana</sub></td>
-    <td align="center" width="25%"><b>2025</b><br>AI Forge program<br><sub>Algiers, Algeria</sub></td>
-    <td align="center" width="25%"><b>2022 to 2025</b><br>Computer vision tutor at Micro Club<br><sub>Algiers, Algeria</sub></td>
+    <td align="center" valign="top" width="25%"><b>2026</b><br>Deep Learning Indaba<br><sub>Attended the talks and tutorials and reviewed research posters</sub><br><sub><i>Lagos, Nigeria</i></sub></td>
+    <td align="center" valign="top" width="25%"><b>2026</b><br>African Computer Vision Summer School<br><sub>Took part in the lectures and a team computer vision project</sub><br><sub><i>Accra, Ghana</i></sub></td>
+    <td align="center" valign="top" width="25%"><b>2025</b><br>AI Forge program<br><sub>Built a prototype model to detect space debris, in a multidisciplinary team</sub><br><sub><i>Algiers, Algeria</i></sub></td>
+    <td align="center" valign="top" width="25%"><b>2022 to 2025</b><br>Computer vision tutor at Micro Club<br><sub>Taught the foundations of computer vision to about 100 members</sub><br><sub><i>Algiers, Algeria</i></sub></td>
   </tr>
 </table>
 
