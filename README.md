@@ -7,6 +7,12 @@
 
 My background is in computer science, with a master's degree in Visual Computing. Recent experience includes the [Deep Learning Indaba](https://deeplearningindaba.com/2026/), the [African Computer Vision Summer School](https://www.acvss.ai/) and the AI Forge program, as well as teaching computer vision at [Micro Club](https://www.microclub.info/). The work here is open so that others can learn from it and build on it.
 
+<p>
+  <a href="mailto:younesstoukal2@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-email-dark.svg"><img src="assets/buttons/btn-email-light.svg" alt="Email: younesstoukal2@gmail.com" height="32"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/younes-toukal/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-linkedin-dark.svg"><img src="assets/buttons/btn-linkedin-light.svg" alt="LinkedIn: younes-toukal" height="32"></picture></a>&nbsp;
+  <a href="https://younestoukal.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-website-dark.svg"><img src="assets/buttons/btn-website-light.svg" alt="Website: younestoukal.github.io" height="32"></picture></a>
+</p>
+
 ### Projects
 
 <a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation"><img src="assets/projects/liver-tile.webp" alt="Three-dimensional render of a liver with its portal and hepatic veins" width="20%" align="left"></a>
@@ -30,15 +36,9 @@ A bilingual Arabic and French web application for following each student's progr
 
 <br clear="left">
 
-### Tools
+### Tech stack
 
 - **Languages:** Python, C, C++, SQL
 - **Machine learning:** PyTorch, TensorFlow, CatBoost, TabPFN
 - **Vision and imaging:** OpenCV, nibabel
 - **Data and plotting:** NumPy, pandas, Matplotlib
-
-### Links
-
-- Email: [younesstoukal2@gmail.com](mailto:younesstoukal2@gmail.com)
-- LinkedIn: [in/younes-toukal](https://www.linkedin.com/in/younes-toukal/)
-- Website: [younestoukal.github.io](https://younestoukal.github.io)
