@@ -61,8 +61,8 @@
   <tr>
     <td align="center" width="25%"><b>2026</b><br>Deep Learning Indaba<br><sub>Lagos, Nigeria</sub></td>
     <td align="center" width="25%"><b>2026</b><br>African Computer Vision Summer School<br><sub>Accra, Ghana</sub></td>
-    <td align="center" width="25%"><b>2025</b><br>AI Forge program<br><sub>World Learning Algeria</sub></td>
-    <td align="center" width="25%"><b>2022 to 2025</b><br>Computer vision tutor<br><sub>Micro Club</sub></td>
+    <td align="center" width="25%"><b>2025</b><br>AI Forge program<br><sub>Algiers, Algeria</sub></td>
+    <td align="center" width="25%"><b>2022 to 2025</b><br>Computer vision tutor at Micro Club<br><sub>Algiers, Algeria</sub></td>
   </tr>
 </table>
 
