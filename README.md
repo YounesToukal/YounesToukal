@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wave-top-gold.svg" alt="" width="100%">
+  <img src="assets/frame-top.svg" alt="" width="100%">
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/wave-bottom-gold.svg" alt="" width="100%">
+  <img src="assets/frame-bottom.svg" alt="" width="100%">
 </p>
