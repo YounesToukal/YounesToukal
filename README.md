@@ -29,13 +29,6 @@ A home solar kit that protects its battery, for families who lose the electricit
 
 <br clear="left">
 
-<a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/projects/mosaic-tile.png" alt="Geometric mosaic from QuranDec" width="20%" align="left"></a>
-
-**[QuranDec](https://github.com/YounesToukal/QuranicSchool)** · *Community education*<br>
-A bilingual Arabic and French web application for following each student's progress in a Quranic school.
-
-<br clear="left">
-
 ### Tech stack
 
 - **Languages:** Python, C, C++, SQL
