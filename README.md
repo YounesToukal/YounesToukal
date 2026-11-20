@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <a href="mailto:younesstoukal2@gmail.com"><img src="assets/links/email.svg" alt="Email" height="34"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/younes-toukal/"><img src="assets/links/linkedin.svg" alt="LinkedIn" height="34"></a>&nbsp;
-  <a href="https://younestoukal.github.io"><img src="assets/links/website.svg" alt="Website" height="34"></a>
+  <a href="mailto:younesstoukal2@gmail.com"><img src="assets/contact/email.svg" alt="Email: younesstoukal2@gmail.com" height="23"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/younes-toukal/"><img src="assets/contact/linkedin.svg" alt="LinkedIn: younes-toukal" height="23"></a>&nbsp;
+  <a href="https://younestoukal.github.io"><img src="assets/contact/website.svg" alt="Website: younestoukal.github.io" height="23"></a>
 </p>
 
 <p align="center">
@@ -21,15 +21,15 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation"><img src="assets/figures/health.webp" alt="Hepatic vessel segmentation" width="100%"></a>
+      <a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation"><img src="assets/cards3/liver.webp" alt="Hepatic vessel segmentation" width="100%"></a>
       <br><sub>Segments the liver's blood vessels in computed tomography scans for liver surgery planning, reading neighbouring slices together for three-dimensional context.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/YounesToukal/SABIL"><img src="assets/figures/energy.webp" alt="SABIL" width="100%"></a>
+      <a href="https://github.com/YounesToukal/SABIL"><img src="assets/cards3/sabil.webp" alt="SABIL" width="100%"></a>
       <br><sub>A home solar kit for families who lose the electricity grid for months. In a ten-year simulation, hours without essential power fall from 110 to 13.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/figures/education.webp" alt="QuranDec" width="100%"></a>
+      <a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/cards3/qurandec.webp" alt="QuranDec" width="100%"></a>
       <br><sub>A bilingual Arabic and French web application that helps a Quranic school follow each student's progress, even offline.</sub>
     </td>
   </tr>
@@ -49,21 +49,21 @@
 <h3 align="center">Tools I work with</h3>
 
 <p align="center">
-  <img src="assets/tools/python.svg" alt="Python" height="26">&nbsp;
-  <img src="assets/tools/c.svg" alt="C" height="26">&nbsp;
-  <img src="assets/tools/cpp.svg" alt="C++" height="26">&nbsp;
-  <img src="assets/tools/sql.svg" alt="SQL" height="26">
+  <img src="assets/stack/python.svg" alt="Python" height="22">&nbsp;
+  <img src="assets/stack/c.svg" alt="C" height="22">&nbsp;
+  <img src="assets/stack/cpp.svg" alt="C++" height="22">&nbsp;
+  <img src="assets/stack/sql.svg" alt="SQL" height="22">
 <br>
-  <img src="assets/tools/pytorch.svg" alt="PyTorch" height="26">&nbsp;
-  <img src="assets/tools/tensorflow.svg" alt="TensorFlow" height="26">&nbsp;
-  <img src="assets/tools/opencv.svg" alt="OpenCV" height="26">&nbsp;
-  <img src="assets/tools/catboost.svg" alt="CatBoost" height="26">&nbsp;
-  <img src="assets/tools/tabpfn.svg" alt="TabPFN" height="26">
+  <img src="assets/stack/pytorch.svg" alt="PyTorch" height="22">&nbsp;
+  <img src="assets/stack/tensorflow.svg" alt="TensorFlow" height="22">&nbsp;
+  <img src="assets/stack/opencv.svg" alt="OpenCV" height="22">&nbsp;
+  <img src="assets/stack/catboost.svg" alt="CatBoost" height="22">&nbsp;
+  <img src="assets/stack/tabpfn.svg" alt="TabPFN" height="22">
 <br>
-  <img src="assets/tools/numpy.svg" alt="NumPy" height="26">&nbsp;
-  <img src="assets/tools/pandas.svg" alt="pandas" height="26">&nbsp;
-  <img src="assets/tools/matplotlib.svg" alt="Matplotlib" height="26">&nbsp;
-  <img src="assets/tools/nibabel.svg" alt="nibabel" height="26">
+  <img src="assets/stack/numpy.svg" alt="NumPy" height="22">&nbsp;
+  <img src="assets/stack/pandas.svg" alt="pandas" height="22">&nbsp;
+  <img src="assets/stack/matplotlib.svg" alt="Matplotlib" height="22">&nbsp;
+  <img src="assets/stack/nibabel.svg" alt="nibabel" height="22">
 </p>
 
 <picture>
