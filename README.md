@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/opening-line-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/opening-line-light.svg">
-  <img src="assets/opening-line-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/card-tight-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/card-tight-light.svg">
+  <img src="assets/card-tight-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education." width="100%">
 </picture>
 
 My background is in computer science, with a master's degree in Visual Computing. Recent experience includes the [Deep Learning Indaba](https://deeplearningindaba.com/2026/), the [African Computer Vision Summer School](https://www.acvss.ai/) and the AI Forge program, as well as teaching computer vision at [Micro Club](https://www.microclub.info/). The work here is open so that others can learn from it and build on it.
