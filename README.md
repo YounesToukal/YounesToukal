@@ -21,19 +21,19 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation"><img src="assets/projects/liver.gif" alt="Three-dimensional render of a liver with its portal and hepatic veins" height="170"></a>
+      <a href="https://github.com/YounesToukal/context-aware-hepatic-vessel-segmentation"><img src="assets/projects/liver-tile.webp" alt="Three-dimensional render of a liver with its portal and hepatic veins" width="100%"></a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/YounesToukal/SABIL">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/projects/sabil-reversed.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/projects/sabil-colour.svg">
-          <img src="assets/projects/sabil-colour.svg" alt="SABIL logo" width="210">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/projects/sabil-tile-reversed.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/projects/sabil-tile-colour.svg">
+          <img src="assets/projects/sabil-tile-colour.svg" alt="SABIL logo" width="100%">
         </picture>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/projects/qurandec-mosaic.png" alt="Geometric mosaic from QuranDec" height="170"></a>
+      <a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/projects/mosaic-tile.png" alt="Geometric mosaic from QuranDec" width="100%"></a>
     </td>
   </tr>
   <tr>
