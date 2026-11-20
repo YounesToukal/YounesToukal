@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-<h3 align="center">Community</h3>
+<h3 align="center">Activities</h3>
 
 <table align="center">
   <tr>
