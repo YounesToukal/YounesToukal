@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:younesstoukal2@gmail.com"><img src="assets/badges/email.svg" alt="Email" height="30"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/younes-toukal/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="30"></a>&nbsp;
-  <a href="https://younestoukal.github.io"><img src="assets/badges/website.svg" alt="Website" height="30"></a>
+  <a href="mailto:younesstoukal2@gmail.com"><img src="assets/badges/email.svg" alt="Email" height="34"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/younes-toukal/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="34"></a>&nbsp;
+  <a href="https://younestoukal.github.io"><img src="assets/badges/website.svg" alt="Website" height="34"></a>
 </p>
 
 <p align="center">
@@ -50,21 +50,21 @@
 <h3 align="center">Tools I work with</h3>
 
 <p align="center">
-  <img src="assets/badges/tool-python.svg" alt="Python" height="24">&nbsp;
-  <img src="assets/badges/tool-c.svg" alt="C" height="24">&nbsp;
-  <img src="assets/badges/tool-cpp.svg" alt="C++" height="24">&nbsp;
-  <img src="assets/badges/tool-sql.svg" alt="SQL" height="24">
+  <img src="assets/badges/tool-python.svg" alt="Python" height="26">&nbsp;
+  <img src="assets/badges/tool-c.svg" alt="C" height="26">&nbsp;
+  <img src="assets/badges/tool-cpp.svg" alt="C++" height="26">&nbsp;
+  <img src="assets/badges/tool-sql.svg" alt="SQL" height="26">
 <br>
-  <img src="assets/badges/tool-pytorch.svg" alt="PyTorch" height="24">&nbsp;
-  <img src="assets/badges/tool-tensorflow.svg" alt="TensorFlow" height="24">&nbsp;
-  <img src="assets/badges/tool-opencv.svg" alt="OpenCV" height="24">&nbsp;
-  <img src="assets/badges/tool-catboost.svg" alt="CatBoost" height="24">&nbsp;
-  <img src="assets/badges/tool-tabpfn.svg" alt="TabPFN" height="24">
+  <img src="assets/badges/tool-pytorch.svg" alt="PyTorch" height="26">&nbsp;
+  <img src="assets/badges/tool-tensorflow.svg" alt="TensorFlow" height="26">&nbsp;
+  <img src="assets/badges/tool-opencv.svg" alt="OpenCV" height="26">&nbsp;
+  <img src="assets/badges/tool-catboost.svg" alt="CatBoost" height="26">&nbsp;
+  <img src="assets/badges/tool-tabpfn.svg" alt="TabPFN" height="26">
 <br>
-  <img src="assets/badges/tool-numpy.svg" alt="NumPy" height="24">&nbsp;
-  <img src="assets/badges/tool-pandas.svg" alt="pandas" height="24">&nbsp;
-  <img src="assets/badges/tool-matplotlib.svg" alt="Matplotlib" height="24">&nbsp;
-  <img src="assets/badges/tool-nibabel.svg" alt="nibabel" height="24">
+  <img src="assets/badges/tool-numpy.svg" alt="NumPy" height="26">&nbsp;
+  <img src="assets/badges/tool-pandas.svg" alt="pandas" height="26">&nbsp;
+  <img src="assets/badges/tool-matplotlib.svg" alt="Matplotlib" height="26">&nbsp;
+  <img src="assets/badges/tool-nibabel.svg" alt="nibabel" height="26">
 </p>
 
 <p align="center">
