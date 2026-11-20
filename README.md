@@ -11,7 +11,7 @@
   <a href="https://younestoukal.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/contact-dark/website.svg"><source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/contact-light/website.svg"><img src="assets/contact-light/website.svg" alt="Website: younestoukal.github.io" height="23"></picture></a>
 </p>
 
-I hold a master's degree in Visual Computing and a bachelor's degree in Computer Science. I am interested in machine learning for health, computer vision, three-dimensional vision and technology for underserved communities.
+I hold a master's degree in Visual Computing and a bachelor's degree in Computer Science. I am interested in machine learning for health, computer vision, three-dimensional vision and technology for underserved communities. Along the way, I have taken part in the [Deep Learning Indaba](https://deeplearningindaba.com/2026/), the [African Computer Vision Summer School](https://www.acvss.ai/) and the AI Forge program, and I taught computer vision to students at [Micro Club](https://www.microclub.info/).
 
 ### Projects
 
@@ -35,13 +35,6 @@ A home solar kit that protects its battery, for families who lose the electricit
 A bilingual Arabic and French web application for following each student's progress in a Quranic school.
 
 <br clear="left">
-
-### Activities
-
-- **2026 · Deep Learning Indaba** · Lagos, Nigeria<br>Participant and poster reviewer
-- **2026 · African Computer Vision Summer School** · Accra, Ghana<br>Participant in a team computer vision project
-- **2025 · AI Forge program** · Algiers, Algeria<br>Team project on space debris detection
-- **2022 to 2025 · Micro Club** · Algiers, Algeria<br>Computer vision tutor to about 100 members
 
 ### Tools I work with
 
