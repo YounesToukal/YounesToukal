@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/card-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/card-light.svg">
-  <img src="assets/card-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/opening-line-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/opening-line-light.svg">
+  <img src="assets/opening-line-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education." width="100%">
 </picture>
 
 My background is in computer science, with a master's degree in Visual Computing. Recent experience includes the [Deep Learning Indaba](https://deeplearningindaba.com/2026/), the [African Computer Vision Summer School](https://www.acvss.ai/) and the AI Forge program, as well as teaching computer vision at [Micro Club](https://www.microclub.info/). The work here is open so that others can learn from it and build on it.
@@ -37,8 +37,6 @@ A bilingual Arabic and French web application for following each student's progr
 - **Data and plotting:** NumPy, pandas, Matplotlib
 
 ### Links
-
-Open to research collaborations and graduate study. Email is the best way to reach me.
 
 - Email: [younesstoukal2@gmail.com](mailto:younesstoukal2@gmail.com)
 - LinkedIn: [in/younes-toukal](https://www.linkedin.com/in/younes-toukal/)
