@@ -33,7 +33,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/projects/qurandec.svg" alt="QuranDec logo" height="170"></a>
+      <a href="https://github.com/YounesToukal/QuranicSchool"><img src="assets/projects/qurandec-mosaic.png" alt="Geometric mosaic from QuranDec" height="170"></a>
     </td>
   </tr>
   <tr>
