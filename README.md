@@ -29,7 +29,7 @@ A home solar kit that protects its battery, for families who lose the electricit
 
 <br clear="left">
 
-<a href="https://github.com/YounesToukal/the-outer-world"><img src="assets/projects/outer-world-tile.webp" alt="Night side of Earth with city lights across Europe and North Africa" width="20%" align="left"></a>
+<a href="https://github.com/YounesToukal/the-outer-world"><img src="assets/projects/outer-world-tile.webp" alt="Earth turning with its clouds" width="20%" align="left"></a>
 
 **[The Outer World](https://github.com/YounesToukal/the-outer-world)** · *Computer graphics*<br>
 A real-time solar system in C++ and OpenGL, made to show both its beauty and its true scale.
