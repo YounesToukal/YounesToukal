@@ -29,9 +29,16 @@ A home solar kit that protects its battery, for families who lose the electricit
 
 <br clear="left">
 
+<a href="https://github.com/YounesToukal/the-outer-world"><img src="assets/projects/outer-world-tile.webp" alt="Night side of Earth with city lights across Europe and North Africa" width="20%" align="left"></a>
+
+**[The Outer World](https://github.com/YounesToukal/the-outer-world)** · *Computer graphics*<br>
+A real-time solar system in C++ and OpenGL, made to show both its beauty and its true scale.
+
+<br clear="left">
+
 ### Tech stack
 
 - **Languages:** Python, C, C++, SQL
 - **Machine learning:** PyTorch, TensorFlow, CatBoost, TabPFN
-- **Vision and imaging:** OpenCV, nibabel
+- **Vision and graphics:** OpenCV, OpenGL, nibabel
 - **Data and plotting:** NumPy, pandas, Matplotlib
