@@ -2,7 +2,7 @@
   <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/plain-lg-narrow-dark.svg">
   <source media="(max-width: 640px)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/plain-lg-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/plain-lg-wide-dark.svg">
-  <img src="assets/plain-lg-wide-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education." width="100%">
+  <img src="assets/plain-lg-wide-light.svg" alt="I do research in AI and computer vision, and use my knowledge to help underserved communities." width="100%">
 </picture>
 
 Hey 👋, I'm Younes, a master's graduate in computer vision. I enjoy doing research and collaborating with like-minded people on projects. I also try to use my knowledge to make a positive impact in the real world, especially for underrepresented and low-income communities. 
