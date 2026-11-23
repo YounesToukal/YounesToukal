@@ -10,6 +10,7 @@ Recently, I've been involved in programs and events like [Deep Learning Indaba](
 <p>
   <a href="mailto:younesstoukal2@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-email-dark.svg"><img src="assets/buttons/btn-email-light.svg" alt="Email: younesstoukal2@gmail.com" height="32"></picture></a>&nbsp;
   <a href="https://www.linkedin.com/in/younes-toukal/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-linkedin-dark.svg"><img src="assets/buttons/btn-linkedin-light.svg" alt="LinkedIn: younes-toukal" height="32"></picture></a>&nbsp;
+  <a href="https://medium.com/@younesstoukal2"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-medium-dark.svg"><img src="assets/buttons/btn-medium-light.svg" alt="Medium: @younesstoukal2" height="32"></picture></a>&nbsp;
   <a href="https://younestoukal.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-website-dark.svg"><img src="assets/buttons/btn-website-light.svg" alt="Website: younestoukal.github.io" height="32"></picture></a>
 </p>
 
