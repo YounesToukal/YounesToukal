@@ -5,7 +5,8 @@
   <img src="assets/plain-lg-wide-light.svg" alt="I build machine learning and software for people who are usually left out of technology, in health, energy access and education." width="100%">
 </picture>
 
-Hey 👋, I'm Younes, a master's graduate in computer vision. I enjoy doing research and collaborating with like-minded people on projects. I also try to use my knowledge to make a positive impact in the real world, especially for underrepresented and low-income communities. Recently, I've been involved in programs and events like [Deep Learning Indaba](https://deeplearningindaba.com/2026/), the [African Computer Vision Summer School](https://www.acvss.ai/). I share my work openly so others can learn from it, use it, and build on it.
+Hey 👋, I'm Younes, a master's graduate in computer vision. I enjoy doing research and collaborating with like-minded people on projects. I also try to use my knowledge to make a positive impact in the real world, especially for underrepresented and low-income communities. 
+Recently, I've been involved in programs and events like [Deep Learning Indaba](https://deeplearningindaba.com/2026/), the [African Computer Vision Summer School](https://www.acvss.ai/). I share my work openly so others can learn from it, use it, and build on it.
 <p>
   <a href="mailto:younesstoukal2@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-email-dark.svg"><img src="assets/buttons/btn-email-light.svg" alt="Email: younesstoukal2@gmail.com" height="32"></picture></a>&nbsp;
   <a href="https://www.linkedin.com/in/younes-toukal/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/YounesToukal/YounesToukal/raw/main/assets/buttons/btn-linkedin-dark.svg"><img src="assets/buttons/btn-linkedin-light.svg" alt="LinkedIn: younes-toukal" height="32"></picture></a>&nbsp;
